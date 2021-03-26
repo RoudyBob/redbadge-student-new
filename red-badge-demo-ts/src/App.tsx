@@ -1,8 +1,9 @@
 import React from "react";
-import StateExample from './Components/StateExample';
+import ClassDeckFetch from "./Components/ClassDeckFetch";
+// import StateExample from './Components/StateExample';
 
 function App() {
-  return <div><StateExample /></div>;
+  return <div><ClassDeckFetch /></div>;
 }
 
 export default App;
